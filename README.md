@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tobindekorne
-- 👀 I’m interested in python and serverless development
+- 👀 I’m interested in Javascript, Python and serverless design for full stack web development
 - 🌱 I’m currently learning AWS serverless technologies
 
 <!---
