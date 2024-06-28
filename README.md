@@ -9,8 +9,8 @@ I have been a professional developer for over 6 years now after graduating from 
 * 🌍  I'm based in San Diego
 * 🖥️  See my portfolio at [My Portfolio](http://tobindekorne.com)
 * ✉️  You can contact me at [tdekorne@gmail.com](mailto:tdekorne@gmail.com)
-* 🧠  I'm learning TDD (always)
-* ⚡  I love fitness and anything active. Any project ideas centered around this would be fun to collaborate on!
+* 🧠  I'm learning system architecture desing (always)
+* ⚡  I love education, puzzles, fitness and anything active. Any project ideas centered around this would be fun to collaborate on!
 
 ### Skills
 
