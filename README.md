@@ -4,7 +4,7 @@ Hi 👋 My name is Tobin deKorne
 Sr. Application Developer
 -------------------------
 
-I have been a professional developer for over 3 years now after graduating from CSUSM with a B.S. in computer science. I have a passion for web development and enjoy moving around the full stack.
+I have been a professional developer for over 6 years now after graduating from CSUSM with a B.S. in computer science. I have a passion for web development and enjoy moving around the full stack.
 
 * 🌍  I'm based in San Diego
 * 🖥️  See my portfolio at [My Portfolio](http://tobindekorne.com)
